@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "youtube-agent",
+  "description": "The YouTube agent skill pack for Claude",
+  "owner": { "name": "Swayam Dhawan", "url": "https://creatofy.com" },
+  "plugins": [
+    {
+      "name": "youtube-agent",
+      "description": "Eleven Claude skills that run a YouTube channel, including a scored hook panel, a title and thumbnail linter, an edit decision list, a retention reader and a virality engine.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/swayamdhawan/youtube-agent"
+    }
+  ]
+}
